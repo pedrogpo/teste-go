@@ -1,3 +1,3 @@
-module github.com/pedrogpo/testego
+module github.com/pedrogpo/teste-go
 
 go 1.19
